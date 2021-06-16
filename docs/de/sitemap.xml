@@ -3,44 +3,145 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://examplesite.org/de/</loc>
+    <loc>https://itsgyanendra.github.io/riwayat/de/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/"
+                href="https://itsgyanendra.github.io/riwayat/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/"
+                href="https://itsgyanendra.github.io/riwayat/de/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/de/categories/</loc>
+    <loc>https://itsgyanendra.github.io/riwayat/de/blog/post-1/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/categories/"
+                href="https://itsgyanendra.github.io/riwayat/blog/post-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/categories/"
+                href="https://itsgyanendra.github.io/riwayat/de/blog/post-1/"
                 />
   </url>
   
   <url>
-    <loc>http://examplesite.org/de/tags/</loc>
+    <loc>https://itsgyanendra.github.io/riwayat/de/blog/</loc>
+    <lastmod>2020-04-18T10:07:21+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://examplesite.org/tags/"
+                href="https://itsgyanendra.github.io/riwayat/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://examplesite.org/de/tags/"
+                href="https://itsgyanendra.github.io/riwayat/de/blog/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://itsgyanendra.github.io/riwayat/de/terms-conditions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://itsgyanendra.github.io/riwayat/terms-conditions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://itsgyanendra.github.io/riwayat/de/terms-conditions/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://itsgyanendra.github.io/riwayat/de/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://itsgyanendra.github.io/riwayat/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://itsgyanendra.github.io/riwayat/de/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://itsgyanendra.github.io/riwayat/de/privacy-policy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://itsgyanendra.github.io/riwayat/privacy-policy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://itsgyanendra.github.io/riwayat/de/privacy-policy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://itsgyanendra.github.io/riwayat/de/faq/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://itsgyanendra.github.io/riwayat/faq/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://itsgyanendra.github.io/riwayat/de/faq/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://itsgyanendra.github.io/riwayat/de/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://itsgyanendra.github.io/riwayat/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://itsgyanendra.github.io/riwayat/de/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://itsgyanendra.github.io/riwayat/de/pricing/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://itsgyanendra.github.io/riwayat/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://itsgyanendra.github.io/riwayat/de/pricing/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://itsgyanendra.github.io/riwayat/de/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://itsgyanendra.github.io/riwayat/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://itsgyanendra.github.io/riwayat/de/tags/"
                 />
   </url>
   
